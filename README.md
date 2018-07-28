@@ -17,6 +17,9 @@ Material de apoyo para el curso.
 - ¿Cómo se construye un sitio?
   - ¿Qué es un sitio web?
   - Servicios para crear sitios
+    - Wix
+    - Wordpress
+  - Wordpress 
 
 #### Planeación de tiempos
 - Primeras dos secciones teóricas (35 minutos)

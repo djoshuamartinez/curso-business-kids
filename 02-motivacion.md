@@ -33,8 +33,33 @@ Más aún, puedes tu querer ofrecer un servicio desde tu página, por ejemplo un
 
 Según tu necesidades, con lo que hemos dicho, podrás ser un negocio de tipo 1 o tipo 2, según la clasificación de arriba.
 
-En lo que se refiere a páginas web, hay varias secciones *típicas* que te pueden servir como referencia.
+En lo que se refiere a páginas web, hay varias secciones *típicas* que te pueden servir como referencia:
+- Página de inicio
+- Acerca de nosotros / ¿Quiénes somos?
+- Proyectos
+- Nosotros
+- Contacto
+- Noticias / Blog
+- FAQ
+- Mapa del sitio
 
-POR COMPLETAR
+Debes de tomar en cuenta que tus *landing pages*, que son las páginas por las que el cliente llegará a tu sitio, deben ser atractivas según la estrategia y el mensaje que quieras transmitir.
+
+Cuando tu sitio web solamente es para mostrar información y no requieres que el cliente interactúe con el sitio, decimos que la comunicación es unidireccional.
+
+Este tipo de páginas puede ser muy útil, para mostrar tu *portfolio*, mostrar el catálogo de tus productos, dar a conocer al personal de tu empresa, generar la imagen que quieres en el cliente.
+
+Si tu negocio es de tipo 2, también quieres interactuar con el cliente, y que haya comunicación bidireccional. Esto puede ser simple, como solo una forma de contacto, o servicios completos como tiendas en línea.
+
+![Sitio e-commerce](https://1o56jg2d84kn2gttsn20ravj-wpengine.netdna-ssl.com/wp-content/uploads/ecommerce-site-screenshot-914x1024.png "Sitio e-commerce")
+
+Este tipo de sitios, pueden tener ciertas soluciones genéricas y que puedes conseguir si inviertes en los sitios populares que las venden. Pero mientras mayor complejidad requieras, es probable que puedas considerar un desarrollo propio, eso requiere de diseñadores, maquetadores y programadores según tu deseo.
+
+## Negocios cuyo producto es un servicio web
+Quizá tu negocio no entre dentro de este rubro, pero para algunos negocios, sus sitios, ¡son justamente lo que el negocio pretende vender!
+
+En este caso están sitios que venden cursos, membresías para cierto contenido, revistas digitales, entre muchos otros ejemplos.
+
+Quizá tu negocio no venda una aplicación web, pero las aplicaciones web que existen son mut útiles para tu negocio, por ejemplo la suite de oficina de Google tiene varias utilidades que te pueden ayudar, como encuestas para estudiar el mercado.
 
 [Actividad 1](https://drive.google.com/open?id=1j1srdw_9AzMsx1ucvsdVNAeZ5tTptREn)
