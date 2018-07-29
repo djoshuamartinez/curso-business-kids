@@ -14,16 +14,18 @@ Material de apoyo para el curso.
   - Comunicación y alcance de una red.
   - Negocios cuyo producto es un servicio web.
   - Negocios que se apoyan de tecnologías web.
-- ¿Cómo se construye un sitio?
+- [¿Cómo se construye un sitio?](03-como-se-construye-un-sitio.md)
   - ¿Qué es un sitio web?
   - Servicios para crear sitios
-    - Wix
-    - Wordpress
-  - Wordpress 
+  - Ejemplos con la interfaz de Wordpress 
+  - ¿Y si queremos más control?
+  - Sitios estáticos con Jekyll
+  - Compartiendo nuestros sitios
 
 #### Planeación de tiempos
 - Primeras dos secciones teóricas (35 minutos)
 - Primer actividad y comentarios (15 minutos)
+- Introducción teórica de qué es un sitio web y ejemplos (30 minutos)
 
 #### Bibliografía
 - http://www.iraqtimeline.com/maxdesign/basicdesign/principles/princommon.html
