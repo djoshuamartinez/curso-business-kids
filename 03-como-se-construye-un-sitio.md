@@ -51,3 +51,11 @@ Como ves, hay mucha complejidad detrás de crear un simple sitio web, y apenas h
 Estas empresas ya ni siquiera necesitan que les des los archivos, ellos los generan por ti, según lo que tu desees. Con estas empresas ya no te tienes que preocupar por hosting, pues ellos mismo te lo dan, y muchas veces tampoco del DNS (nombre de dominio). Es decir, te ofrecen el paquete completo y sin preocupaciones. ¡Excelente! que más podríamos querer. Cuando los sitios son simples y no deseas meterte en complejidad, y no te interesa ahorrarte lo poco que te podrías ahorrar haciéndolo tu mismo, este estilo de servicios son todo lo que necesitas. Servicios conocidos de este estilo, son Wix, Wordpress, Squarespace, Weebly, entre otros. Y se les conoce como *Site builders*.
 
 Los sitios son muy amigables y tradicionalmente tienen editores *WYSIWYG* (What you see is what you get) , que son editores con controles dinámicos muy fáciles de usar
+
+La desventaja de utilizar site builders para tu página es para empezar que el precio se eleva un poco, lo que es natural por todas las cosas que te están ahorrando. Sin embargo si deseas hacer tu mismo la página sin meterte tanto en la computadora, y tienes la inversión disponible. Esta es una muy buena opción.
+
+Los sitios de Wix históricamente han tenido problemas de rendimiento, en tiempos de carga, que en el acelerado mundo que vivimos, pueden hacer que clientes se vayan.
+
+Otra desventaja de usar estos servicios, es que estamos atados a usar sus soluciones, así si queremos hacer un sitio más dinámico, o que incorpore funcionalidades como tiendas en línea u otras cosas, podremos hacerlo, pero con las restricciones del site builder y claro, aumentando el precio.
+
+**Actividad 2**. Como sea, estas herramientas son tan sencillas de usar que podemos ir a [Wix](https://wix.com) o  a [Wordpress](https://wordpress.com) y comenzar a explorar lo que nos pueden ofrecer. Estoy seguro que no causarán mucho problema, sus interfaces son tan amigables y parecidas a lo que estamos acostumbrados a usar en nuestro día a día que crear un sitio solo es cuestión de darnos el tiempo de hacerlo.
