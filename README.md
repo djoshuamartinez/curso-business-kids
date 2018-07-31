@@ -17,15 +17,14 @@ Material de apoyo para el curso.
 - [¿Cómo se construye un sitio?](03-como-se-construye-un-sitio.md)
   - ¿Qué es un sitio web?
   - Servicios para crear sitios
-  - Ejemplos con la interfaz de Wordpress 
-  - ¿Y si queremos más control?
-  - Sitios estáticos con Jekyll
-  - Compartiendo nuestros sitios
+- [Explorando Wordpress](04-explorando-wordpress.md)
+- [Explorando Wix](05-explorando-wix.md)
 
 #### Planeación de tiempos
 - Primeras dos secciones teóricas (35 minutos)
 - Primer actividad y comentarios (15 minutos)
 - Introducción teórica de qué es un sitio web y ejemplos (30 minutos)
+- Construcción de un sitio con Wordpress/Wix (2 horas)
 
 #### Bibliografía
 - http://www.iraqtimeline.com/maxdesign/basicdesign/principles/princommon.html
