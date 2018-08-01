@@ -19,6 +19,7 @@ Material de apoyo para el curso.
   - Servicios para crear sitios
 - [Explorando Wordpress](04-explorando-wordpress.md)
 - [Explorando Wix](05-explorando-wix.md)
+- Otras opciones
 
 #### Planeación de tiempos
 - Primeras dos secciones teóricas (35 minutos)
