@@ -2,6 +2,7 @@
 ## BusinessKids Coyoacán
 
 Material de apoyo para el curso.
+djoshuamartinezpineda@gmail.com
 
 **Objetivos de la clase:** 
 - Conocer los conceptos necesarios que pueda requerir una empresa que quiera aprovechar la red global del Internet. 
