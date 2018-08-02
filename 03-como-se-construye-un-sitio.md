@@ -23,6 +23,8 @@ ipconfig
 ```
 Que te da información sobre tu conexión a la red global, en específico tu dirección IP, e incluso la dirección asociada al router. Si colocas tu dirección en un navegador, fallará, pues no has configurado a tu computadora en la red para que comparta archivos que sean tu sitio web. Pero si colocas la del router, ¡verás que hay un sitio que te permite administrar el mismo router!
 
+Claro, omitiendo muchos detalles, esa IP no es exactamente la que te identifica en la red por las IP públicas y privadas, pero a grandes rasgos así funciona.
+
 Bueno, pero afortunadamente, nosotros no tenemos que recordar 172.217.17.78 cada que queramos entrar a Google, basta con que nosotros escribamos google.com y listo.
 
 Para que la red sepa hacer esto, se requieren de *Servidores de Nombre de Dominio* o *DNS* que en breve, son nombres amigables para las direcciones de las computadoras en la red. Nombres amigables permiten que tus clientes no entren a una dirección IP, y en lugar solo escriban el nombre de tu negocio.
